@@ -1,2 +1,2 @@
 hugging face: https://huggingface.co/spaces/liveisliiife/text2textwithDocker
-try generte part: https://liveisliiife-text2textwithdocker.hf.space/docs
+try generate part: https://liveisliiife-text2textwithdocker.hf.space/docs
