@@ -2,6 +2,8 @@ tqdm
 notebook==7.1.2
 elasticsearch
 pandas
+openai
+groq
 scikit-learn
 ipywidgets
 sentence-transformers==2.7.0
